@@ -1,64 +1,58 @@
-<h1 align="center">Hi there, I'm Mapalo 👋</h1>
-
+<h1 align="center">Mapalo</h1>
 <p align="center">
-  <b>Computer Science student @ University of Zambia</b> · Mobile & Full-Stack Developer · Tech enthusiast
+  <b>Computer Science Student, University of Zambia</b><br/>
+  Mobile & Full-Stack Developer
 </p>
-
 <p align="center">
-  <a href="#-pinned-projects">Projects</a> ·
-  <a href="#-currently-working-on">Now</a> ·
-  <a href="#-skills--tools">Skills</a> ·
-  <a href="#-fun-facts">Fun facts</a>
+  <a href="#projects">Projects</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#technical-skills">Technical Skills</a> ·
+  <a href="#interests">Interests</a>
 </p>
 
 ---
 
-I build **impactful, user-centric solutions** — from AI-powered study tools to enterprise payroll systems. My core stack is **Flutter** for mobile, **Node.js & Spring Boot** for backend APIs, and **React/Next.js** for the web. I've shipped MVPs in **AI tutoring**, **fintech**, and **IoT tracking**, and I enjoy every layer: designing the database, building the REST API, and polishing the UI.
+## About
 
-## 🎬 Projects in Motion
+I design and build user-centric software, from AI-powered learning tools to enterprise payroll systems. My core stack is **Flutter** for mobile, **Node.js** and **Spring Boot** for backend services, and **React/Next.js** for the web. I have delivered working products in AI-assisted education, fintech, and IoT tracking, and I take ownership across the full stack: database design, REST API development, and user interface implementation.
 
-> A slideshow of my two flagship web apps — **Payroll** (spring-boot enterprise payroll management) and **Sambilila** (AI study assistant).
+## Featured Work
 
-![Project slideshow: Payroll dashboard/employees/payroll runs/payslips + Sambilila landing/dashboard/flashcards/quiz results](docs/slideshow.gif)
+Two flagship web applications: **Payroll**, an enterprise payroll management system built on Spring Boot, and **Sambilila**, an AI study assistant.
 
-## 📌 Pinned Projects
+![Project overview: Payroll and Sambilila](docs/slideshow.gif)
 
-| Project | What it is | Stack |
+## Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| 💰 [**payroll-system**](payroll-system/) | Full payroll lifecycle: employees, monthly runs (draft → approve), PDF payslips + bulk email, loans, expenses, cashflow, PPE, audit logs | Java 25 · Spring Boot · PostgreSQL · React 19 · Vite · MUI |
-| 📚 [**sambilila**](sambilila/) | AI study assistant that turns notes into flashcards & quizzes, with sharing, donations & a companion analytics server | Next.js · Prisma · PostgreSQL · Gemini · Cloudflare R2 |
-| 🤖 [**ai-tutor**](ai-tutor/) | Socratic AI tutor grounded strictly in instructor-uploaded curriculum via RAG (PDF/DOCX/TXT ingestion, streaming chat, admin console) | Python · FastAPI · Gemini · React + TS + Tailwind |
-| 🚌 [**zambus**](zambus/) | Intercity bus platform: route search, seat-map booking, QR-verified boarding, operator commissions, 4 user roles | Node.js · Express · TS · PostgreSQL · Flutter |
-| 📍 [**spouse-tracker**](spouse-tracker/) + [**spouce-tracker-backend**](spouce-tracker-backend/) | Real-time GPS tracking for an ESP32/SIM800L IoT device, live maps, history playback, QR device pairing | Flutter · Node.js · Express · PostgreSQL |
-| 🏫 [**UNZALARU-Loan-Management-System**](UNZALARU-Loan-Management-System/) | Loan management system for the UNZA students' loan fund | Java · MySQL *(growing)* |
+| [**payroll-system**](payroll-system/) | End-to-end payroll management: employee records, monthly payroll runs with an approval workflow, PDF payslips with bulk email delivery, loans, expenses, cashflow, PPE, and audit logging | Java 25, Spring Boot, PostgreSQL, React 19, Vite, MUI |
+| [**sambilila**](sambilila/) | AI study assistant that converts notes into flashcards and quizzes, with content sharing, donations, and a companion analytics server | Next.js, Prisma, PostgreSQL, Gemini, Cloudflare R2 |
+| [**ai-tutor**](ai-tutor/) | Socratic AI tutor grounded exclusively in instructor-supplied curriculum through retrieval-augmented generation (PDF, DOCX, and TXT ingestion, streaming chat, administrative console) | Python, FastAPI, Gemini, React, TypeScript, Tailwind |
+| [**zambus**](zambus/) | Intercity bus platform with route search, seat-map booking, QR-verified boarding, operator commissions, and four user roles | Node.js, Express, TypeScript, PostgreSQL, Flutter |
+| [**spouse-tracker**](spouse-tracker/) and [**spouce-tracker-backend**](spouce-tracker-backend/) | Real-time GPS tracking for an ESP32/SIM800L IoT device, with live maps, history playback, and QR-based device pairing | Flutter, Node.js, Express, PostgreSQL |
+| [**UNZALARU-Loan-Management-System**](UNZALARU-Loan-Management-System/) | Loan management system for the UNZA students' loan fund (in development) | Java, MySQL |
 
-Every project's folder has its own README with full setup instructions.
+Each project folder includes its own README with complete setup instructions.
 
-## 🚧 Currently Working On
+## Current Focus
 
-- **Kafundisha** — an AI-powered tutor that helps students learn interactively through personalized content and structured courses.
-- **Library Management System** — a database + API to streamline library management.
-- **Content creation** — Flutter tutorials and UI guides for YouTube, TikTok, and Instagram.
+**[AI Tutor](ai-tutor/)**: an interactive learning assistant that delivers personalized, curriculum-grounded instruction to students through structured courses.
 
-## 🛠 Skills & Tools
+## Technical Skills
 
-**Languages:** Python · Java · Dart · JavaScript/TypeScript
+- **Languages:** Python, Java, Dart, JavaScript, TypeScript
+- **Frameworks and Libraries:** Flutter, Node.js, Spring Boot, Next.js, React, Firebase
+- **AI and Machine Learning:** Google Gemini, OpenAI API, ElevenLabs API
+- **Data and Infrastructure:** MySQL, PostgreSQL, Prisma, Flyway, Hibernate, REST API design
+- **Practices and Tooling:** Database design, Linux, shell scripting, Git, CI/CD with GitHub Actions
 
-**Frameworks & Libraries:** Flutter · Node.js · Spring Boot · Next.js · React · Firebase
+## Interests
 
-**AI & ML:** Google Gemini · OpenAI API · ElevenLabs API
-
-**Data & Infra:** MySQL · PostgreSQL · Prisma · Flyway · Hibernate · REST API design
-
-**Other:** Database Design · Linux OS · Shell Scripting · Git & CI (GitHub Actions)
-
-## 🎯 Fun Facts
-
-- I'm always exploring new business ideas in tech and looking to build solutions for everyday needs.
-- I'm a gamer at heart and enjoy diving into coding challenges in my spare time.
+I am continually exploring technology-driven business ideas aimed at solving everyday problems, and I enjoy competitive programming and coding challenges in my spare time.
 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — feel free to explore any of the projects above!</i> ✨
+  Thank you for visiting. I welcome you to explore the projects above.
 </p>
