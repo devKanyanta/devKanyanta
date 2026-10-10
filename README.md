@@ -35,10 +35,6 @@ Intercity bus platform with route search, seat-map booking, QR-verified boarding
 Real-time GPS tracking for an ESP32/SIM800L IoT device, with live maps, history playback, and QR-based device pairing.
 **Stack:** Flutter, Node.js, Express, PostgreSQL
 
-### [UNZALARU Loan Management System](https://github.com/devKanyanta/UNZALARU-Loan-Management-System)
-Loan management system for the UNZA students' loan fund (in development).
-**Stack:** Java, MySQL
-
 Each repository includes its own README with complete setup instructions.
 
 ## Current Focus
