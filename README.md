@@ -1,14 +1,9 @@
-<h1 align="center">Mapalo</h1>
-<p align="center">
-  <b>Computer Science Student, University of Zambia</b><br/>
-  Mobile & Full-Stack Developer
-</p>
-<p align="center">
-  <a href="#projects">Projects</a> ·
-  <a href="#current-focus">Current Focus</a> ·
-  <a href="#technical-skills">Technical Skills</a> ·
-  <a href="#interests">Interests</a>
-</p>
+# Mapalo
+
+**Computer Science Student, University of Zambia**
+Mobile and Full-Stack Developer
+
+[Projects](#projects) · [Current Focus](#current-focus) · [Technical Skills](#technical-skills) · [Interests](#interests)
 
 ---
 
@@ -16,28 +11,39 @@
 
 I design and build user-centric software, from AI-powered learning tools to enterprise payroll systems. My core stack is **Flutter** for mobile, **Node.js** and **Spring Boot** for backend services, and **React/Next.js** for the web. I have delivered working products in AI-assisted education, fintech, and IoT tracking, and I take ownership across the full stack: database design, REST API development, and user interface implementation.
 
-## Featured Work
-
-Two flagship web applications: **Payroll**, an enterprise payroll management system built on Spring Boot, and **Sambilila**, an AI study assistant.
-
 ![Project overview: Payroll and Sambilila](docs/slideshow.gif)
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**payroll-system**](payroll-system/) | End-to-end payroll management: employee records, monthly payroll runs with an approval workflow, PDF payslips with bulk email delivery, loans, expenses, cashflow, PPE, and audit logging | Java 25, Spring Boot, PostgreSQL, React 19, Vite, MUI |
-| [**sambilila**](sambilila/) | AI study assistant that converts notes into flashcards and quizzes, with content sharing, donations, and a companion analytics server | Next.js, Prisma, PostgreSQL, Gemini, Cloudflare R2 |
-| [**ai-tutor**](ai-tutor/) | Socratic AI tutor grounded exclusively in instructor-supplied curriculum through retrieval-augmented generation (PDF, DOCX, and TXT ingestion, streaming chat, administrative console) | Python, FastAPI, Gemini, React, TypeScript, Tailwind |
-| [**zambus**](zambus/) | Intercity bus platform with route search, seat-map booking, QR-verified boarding, operator commissions, and four user roles | Node.js, Express, TypeScript, PostgreSQL, Flutter |
-| [**spouse-tracker**](spouse-tracker/) and [**spouce-tracker-backend**](spouce-tracker-backend/) | Real-time GPS tracking for an ESP32/SIM800L IoT device, with live maps, history playback, and QR-based device pairing | Flutter, Node.js, Express, PostgreSQL |
-| [**UNZALARU-Loan-Management-System**](UNZALARU-Loan-Management-System/) | Loan management system for the UNZA students' loan fund (in development) | Java, MySQL |
+### [Payroll System](https://github.com/devKanyanta/payroll-system)
+End-to-end payroll management covering employee records, monthly payroll runs with an approval workflow, PDF payslips with bulk email delivery, loans, expenses, cashflow, PPE, and audit logging.
+**Stack:** Java 25, Spring Boot, PostgreSQL, React 19, Vite, MUI
 
-Each project folder includes its own README with complete setup instructions.
+### [Sambilila](https://github.com/devKanyanta/sambilila)
+AI study assistant that converts notes into flashcards and quizzes, with content sharing, donations, and a companion analytics server.
+**Stack:** Next.js, Prisma, PostgreSQL, Gemini, Cloudflare R2
+
+### [AI Tutor](https://github.com/devKanyanta/ai-tutor)
+Socratic AI tutor grounded exclusively in instructor-supplied curriculum through retrieval-augmented generation, with PDF, DOCX, and TXT ingestion, streaming chat, and an administrative console.
+**Stack:** Python, FastAPI, Gemini, React, TypeScript, Tailwind
+
+### [Zambus](https://github.com/devKanyanta/zambus)
+Intercity bus platform with route search, seat-map booking, QR-verified boarding, operator commissions, and four user roles.
+**Stack:** Node.js, Express, TypeScript, PostgreSQL, Flutter
+
+### Spouse Tracker ([app](https://github.com/devKanyanta/spouse-tracker) · [backend](https://github.com/devKanyanta/spouce-tracker-backend))
+Real-time GPS tracking for an ESP32/SIM800L IoT device, with live maps, history playback, and QR-based device pairing.
+**Stack:** Flutter, Node.js, Express, PostgreSQL
+
+### [UNZALARU Loan Management System](https://github.com/devKanyanta/UNZALARU-Loan-Management-System)
+Loan management system for the UNZA students' loan fund (in development).
+**Stack:** Java, MySQL
+
+Each repository includes its own README with complete setup instructions.
 
 ## Current Focus
 
-**[AI Tutor](ai-tutor/)**: an interactive learning assistant that delivers personalized, curriculum-grounded instruction to students through structured courses.
+**[AI Tutor](https://github.com/devKanyanta/ai-tutor)**: an interactive learning assistant that delivers personalized, curriculum-grounded instruction to students through structured courses.
 
 ## Technical Skills
 
@@ -49,10 +55,4 @@ Each project folder includes its own README with complete setup instructions.
 
 ## Interests
 
-I am continually exploring technology-driven business ideas aimed at solving everyday problems, and I enjoy competitive programming and coding challenges in my spare time.
-
----
-
-<p align="center">
-  Thank you for visiting. I welcome you to explore the projects above.
-</p>
+I am continually exploring technology-driven business ideas aimed at solving everyday problems, and I enjoy coding challenges in my spare time.
