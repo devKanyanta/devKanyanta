@@ -15,7 +15,7 @@ I design and build user-centric software, from AI-powered learning tools to ente
 
 ## Projects
 
-### [Payroll System](https://github.com/devKanyanta/payroll-system)
+### [Payroll System](https://github.com/devKanyanta/payroll-system-java-react)
 End-to-end payroll management covering employee records, monthly payroll runs with an approval workflow, PDF payslips with bulk email delivery, loans, expenses, cashflow, PPE, and audit logging.
 **Stack:** Java 25, Spring Boot, PostgreSQL, React 19, Vite, MUI
 
