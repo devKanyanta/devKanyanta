@@ -31,7 +31,7 @@ Socratic AI tutor grounded exclusively in instructor-supplied curriculum through
 Intercity bus platform with route search, seat-map booking, QR-verified boarding, operator commissions, and four user roles.
 **Stack:** Node.js, Express, TypeScript, PostgreSQL, Flutter
 
-### Spouse Tracker ([app](https://github.com/devKanyanta/spouse-tracker) · [backend](https://github.com/devKanyanta/spouce-tracker-backend))
+### GPS Tracker ([app](https://github.com/devKanyanta/gps-tracker) · [backend](https://github.com/devKanyanta/gps-tracker-backend))
 Real-time GPS tracking for an ESP32/SIM800L IoT device, with live maps, history playback, and QR-based device pairing.
 **Stack:** Flutter, Node.js, Express, PostgreSQL
 
