@@ -23,7 +23,7 @@ End-to-end payroll management covering employee records, monthly payroll runs wi
 AI study assistant that converts notes into flashcards and quizzes, with content sharing, donations, and a companion analytics server.
 **Stack:** Next.js, Prisma, PostgreSQL, Gemini, Cloudflare R2
 
-### [AI Tutor](https://github.com/devKanyanta/ai-tutor)
+### [AI Tutor](https://socratic.devkanyanta.me/)
 Socratic AI tutor grounded exclusively in instructor-supplied curriculum through retrieval-augmented generation, with PDF, DOCX, and TXT ingestion, streaming chat, and an administrative console.
 **Stack:** Python, FastAPI, Gemini, React, TypeScript, Tailwind
 
