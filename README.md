@@ -1,6 +1,6 @@
-# Mapalo
+# Mapalo Kanyanta
 
-**Computer Science Student, University of Zambia**
+**Bachelor of Computer Science - Software Engineering, University of Zambia**
 Mobile and Full-Stack Developer
 
 [Projects](#projects) · [Current Focus](#current-focus) · [Technical Skills](#technical-skills) · [Interests](#interests)
