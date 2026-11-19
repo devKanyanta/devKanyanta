@@ -25,8 +25,8 @@
 <text x="64" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#24364D" clip-path="url(#c3)"><tspan fill="#4FA39A">&gt; </tspan>BSc Computer Science (Software Eng.)</text>
 <rect y="232" width="12" height="26" fill="#4FA39A" opacity="0"><animate attributeName="x" dur="14.4s" repeatCount="indefinite" values="98;98;590;590;98;98" keyTimes="0;0.7500;0.8542;0.9757;1.0000;1"/><animate attributeName="opacity" dur="14.4s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.7500;0.7501;0.8542;0.9757;1.0000;1"/></rect></g>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#24364D">
-<g transform="translate(64,308)"><rect width="170" height="30" rx="15" fill="#fff" stroke="#C3CDD8"/><circle cx="18" cy="15" r="4.5" fill="#4FA39A"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="32" y="19.5">building: Sukulu</text></g>
-<g transform="translate(246,308)"><rect width="190" height="30" rx="15" fill="#fff" stroke="#C3CDD8"/><text x="16" y="19.5">University of Zambia</text></g></g>
+<g transform="translate(64,308)"><rect width="170" height="30" rx="15" fill="#FFFFFF" stroke="#C3CDD8"/><circle cx="18" cy="15" r="4.5" fill="#4FA39A"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="32" y="19.5">building: Sukulu</text></g>
+<g transform="translate(246,308)"><rect width="190" height="30" rx="15" fill="#FFFFFF" stroke="#C3CDD8"/><text x="16" y="19.5">University of Zambia</text></g></g>
 <!-- scene -->
 <g transform="translate(900,196)">
 <ellipse cx="0" cy="8" rx="300" ry="150" fill="url(#glow)"/>

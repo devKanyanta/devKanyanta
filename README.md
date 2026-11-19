@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mapalo Kanyanta, Mobile and Full-Stack Developer" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner.svg" alt="Mapalo Kanyanta, Mobile and Full-Stack Developer" width="100%"></picture>
 
 <br>
 
@@ -9,11 +9,11 @@
 [![Live: AI Tutor](https://img.shields.io/badge/live-AI%20Tutor-4FA39A?style=for-the-badge)](https://socratic.devkanyanta.me)
 [![Live: paBudget](https://img.shields.io/badge/live-paBudget-C47A45?style=for-the-badge)](https://pabudget.devkanyanta.me)
 
-<img src="assets/stats.svg" alt="8+ years, 10+ projects, 4 companies" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats.svg" alt="8+ years, 10+ projects, 4 companies" width="100%"></picture>
 
 </div>
 
-<img src="assets/h-about.svg" alt="01 About" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><img src="assets/h-about.svg" alt="01 About" width="100%"></picture>
 
 I design and build user-centric software, from AI-powered learning tools to enterprise payroll systems. My core stack is **Flutter** for mobile, **Node.js** and **Spring Boot** for backend services, and **React / Next.js** for the web.
 
@@ -22,34 +22,34 @@ I've delivered working products in AI-assisted education, fintech and IoT tracki
 > **Education:** Bachelor of Science in Computer Science (Software Engineering), University of Zambia
 > **Based in:** Lusaka, Zambia
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider.svg" alt="" width="100%"></picture>
 
-<img src="assets/h-projects.svg" alt="02 Selected work" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><img src="assets/h-projects.svg" alt="02 Selected work" width="100%"></picture>
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/devKanyanta/sukulu"><img src="assets/card-1.svg" alt="Sukulu"></a></td>
-<td width="50%"><a href="https://socratic.devkanyanta.me"><img src="assets/card-2.svg" alt="AI Tutor"></a></td>
+<td width="50%"><a href="https://github.com/devKanyanta/sukulu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-1-dark.svg"><img src="assets/card-1.svg" alt="Sukulu"></picture></a></td>
+<td width="50%"><a href="https://socratic.devkanyanta.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-2-dark.svg"><img src="assets/card-2.svg" alt="AI Tutor"></picture></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/devKanyanta/payroll-system-java-react"><img src="assets/card-3.svg" alt="Payroll System"></a></td>
-<td width="50%"><a href="https://sambilila.netlify.app"><img src="assets/card-4.svg" alt="Sambilila / Lernopia"></a></td>
+<td width="50%"><a href="https://github.com/devKanyanta/payroll-system-java-react"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3-dark.svg"><img src="assets/card-3.svg" alt="Payroll System"></picture></a></td>
+<td width="50%"><a href="https://sambilila.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-4-dark.svg"><img src="assets/card-4.svg" alt="Sambilila / Lernopia"></picture></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/devKanyanta/zambus"><img src="assets/card-5.svg" alt="ZamBus"></a></td>
-<td width="50%"><a href="https://github.com/devKanyanta/gps-tracker"><img src="assets/card-6.svg" alt="GPS Tracker"></a></td>
+<td width="50%"><a href="https://github.com/devKanyanta/zambus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-5-dark.svg"><img src="assets/card-5.svg" alt="ZamBus"></picture></a></td>
+<td width="50%"><a href="https://github.com/devKanyanta/gps-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-6-dark.svg"><img src="assets/card-6.svg" alt="GPS Tracker"></picture></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://pabudget.devkanyanta.me"><img src="assets/card-7.svg" alt="paBudget"></a></td>
-<td width="50%"><a href="https://github.com/devKanyanta/appointment-booking-system"><img src="assets/card-8.svg" alt="Kairos Schedule"></a></td>
+<td width="50%"><a href="https://pabudget.devkanyanta.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-7-dark.svg"><img src="assets/card-7.svg" alt="paBudget"></picture></a></td>
+<td width="50%"><a href="https://github.com/devKanyanta/appointment-booking-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-8-dark.svg"><img src="assets/card-8.svg" alt="Kairos Schedule"></picture></a></td>
 </tr>
 </table>
 
 <sub>Cards with a **LIVE** tag link to the running site. The rest link to the repository, and each repo has its own README with full setup instructions. GPS Tracker also has a [backend repo](https://github.com/devKanyanta/gps-tracker-backend).</sub>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider.svg" alt="" width="100%"></picture>
 
-<img src="assets/h-skills.svg" alt="03 Tech stack" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-skills-dark.svg"><img src="assets/h-skills.svg" alt="03 Tech stack" width="100%"></picture>
 
 <div align="center">
 
@@ -80,28 +80,28 @@ I've delivered working products in AI-assisted education, fintech and IoT tracki
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-C47A45?style=flat-square)
 
 **Data & infrastructure**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10151C?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-10151C?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-10151C?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-10151C?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-10151C?style=flat-square&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-10151C?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B3A4C?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2B3A4C?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2B3A4C?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2B3A4C?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2B3A4C?style=flat-square&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2B3A4C?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider.svg" alt="" width="100%"></picture>
 
-<img src="assets/h-focus.svg" alt="04 Current focus" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-focus-dark.svg"><img src="assets/h-focus.svg" alt="04 Current focus" width="100%"></picture>
 
 **[Sukulu](https://github.com/devKanyanta/sukulu)**: a multi-tenant school management platform for Zambian schools that keeps working on campus networks when the internet doesn't. Alongside it, I'm continuing to develop **[AI Tutor](https://socratic.devkanyanta.me)**, an interactive learning assistant that delivers personalised, curriculum-grounded instruction through structured courses.
 
 <div align="center">
 
-<a href="https://github.com/devKanyanta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKanyanta&layout=compact&hide_border=true&bg_color=E8EBEE&title_color=24364D&text_color=10151C&card_width=420" alt="Top languages"></a>
+<a href="https://github.com/devKanyanta"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devKanyanta&layout=compact&hide_border=true&bg_color=0E1319&title_color=6FB0DC&text_color=E8EBEE&card_width=420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKanyanta&layout=compact&hide_border=true&bg_color=E8EBEE&title_color=24364D&text_color=10151C&card_width=420" alt="Top languages"></picture></a>
 
 </div>
 
-<img src="assets/h-contact.svg" alt="05 Let's build something" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg"><img src="assets/h-contact.svg" alt="05 Let's build something" width="100%"></picture>
 
 I'm always exploring technology-driven business ideas that solve everyday problems, and I enjoy coding challenges in my spare time. If you have something worth building, get in touch through the contact form on my site.
 
